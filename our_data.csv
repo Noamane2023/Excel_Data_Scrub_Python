@@ -1,0 +1,15 @@
+OrderDate,Region,Rep,Item,Units,UnitCost,Total
+13/12/2019,East,Jones1,Pencil,201.233333,1.99,189.05
+14/12/2019,Central,Kivell@,Binder,50 RE,19.99,167.44
+15/12/2019,Central,Jardine,Pencil,36,4.99,179.64
+16/12/2019,Central,,Pen,EEEE27,19.99,539.73
+17/12/2019,West,Sorvino,Pencil,56,2.99,167.44
+,East,Jones,Binder,60,4.99,299.4
+19/12/2019,Central,Andrews,Pencil,75,1.99,149.25
+20/12/2019,Central,Jardine,Pencil,90,4.99,449.1
+,West,Thompson,Pencil,,1.99,167.44
+22/12/2019,East,Jones***,Binder,60,8.99,539.4
+23/12/2019,Central,Morgan,Pencil,90,4.99,
+25/12/2019,East,Howard,Binder,29,1.99,167.44
+25/12/2019,East,Parent,Binder,81,19.99,1619.19
+25/12/2019,East,Parent,Binder,81,19.99,1619.19
